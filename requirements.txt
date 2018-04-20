@@ -1,3 +1,5 @@
 jupyter
 kaggle
-
+matplotlib
+scipy
+pandas
