@@ -3,3 +3,5 @@ kaggle
 matplotlib
 scipy
 pandas
+shapely
+tifffile
