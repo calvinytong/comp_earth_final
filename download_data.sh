@@ -6,7 +6,7 @@ DATA_PATH=$1
 
 if [ -z "$1" ]
   then
-    DATA_PATH='.'
+    DATA_PATH='./data'
 fi
 
 
